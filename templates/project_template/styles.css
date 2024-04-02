@@ -1,1 +1,15 @@
-/* Add any global styles here */
+body {
+    background-color: #001E2B;
+}
+h1, p {
+    color: white;
+    font-family: Arial, sans-serif; /* You can replace Arial with any preferred font */
+}
+h1 {
+    font-size: 4em; /* Adjust the size as needed */
+}
+
+p {
+    font-size: 1.5em; /* Adjust the size as needed */
+}
+
