@@ -1,4 +1,4 @@
-# Lepo
+# Lepo.js
 
 ## Description
 
