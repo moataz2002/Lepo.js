@@ -55,10 +55,15 @@ function installGlobally() {
 
 const [, , command, projectName] = process.argv;
 
-if (command === 'init') {
-  createProject(projectName);
-} else if (command === 'global') {
-  installGlobally();
-} else {
-  console.error(`Unknown command: ${command}`);
+const [, , command, projectName] = process.argv;
+
+switch (command) {
+  case 'init':
+    createProject(projectName);
+    break;
+  case 'global':
+    installGlobally();
+    break;
+  default:
+    console.error(`Unknown command: ${command}`);
 }
