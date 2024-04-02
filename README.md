@@ -4,9 +4,10 @@
 
 Lepo is a simple frontend framework designed to help you build web applications quickly and efficiently. It provides a set of tools and conventions to streamline the development process and improve code maintainability.
 
-<center>
+<div style="text-align:center">
   <img src="https://github.com/moataz2002/Lepo.js/raw/master/templates/project_template/Logo.png" alt="Logo" width="500" height="500">
-</center>
+</div>
+
 
 ## Installation
 
