@@ -1,0 +1,12 @@
+{
+    "name": "lepo_frontend_framework",
+    "version": "0.0.1",
+    "description": "A simple frontend framework",
+    "bin": {
+      "lepo": "bin/lepo.js"
+    },
+    "dependencies": {
+
+    }
+  }
+  
