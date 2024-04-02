@@ -27,3 +27,7 @@ Once your project is initialized, you can start developing your frontend applica
 ## Contributing
 
 Contributions to Lepo are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request in the [GitHub repository](https://github.com/your/repository).
+
+## License
+
+This project is licensed under the GPLv3 License - see the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) file for details.
