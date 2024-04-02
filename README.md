@@ -7,6 +7,7 @@ Lepo is a simple frontend framework designed to help you build web applications 
 <center>
   <img src="https://github.com/moataz2002/Lepo.js/raw/master/templates/project_template/Logo.png" alt="Logo" width="500" height="500">
 </center>
+
 ## Installation
 
 To install Lepo, you need to have Node.js and npm installed on your system. Then, you can install Lepo and its dependencies by running the following command:
