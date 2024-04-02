@@ -1,12 +1,13 @@
-# Lepo.js
+<div align="center">
+   <h1>Lepo.js</h1>
+   <img width="500" height="500" src="https://github.com/moataz2002/Lepo.js/raw/master/templates/project_template/Logo.png" >
+</div>
 
 ## Description
 
 Lepo is a simple frontend framework designed to help you build web applications quickly and efficiently. It provides a set of tools and conventions to streamline the development process and improve code maintainability.
 
-<p align="center">
-   <img width="500" height="500" src="https://github.com/moataz2002/Lepo.js/raw/master/templates/project_template/Logo.png" >
-</p>
+
 
 ## Installation
 
