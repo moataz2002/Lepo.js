@@ -55,8 +55,6 @@ function installGlobally() {
 
 const [, , command, projectName] = process.argv;
 
-const [, , command, projectName] = process.argv;
-
 switch (command) {
   case 'init':
     createProject(projectName);
